@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/bomtv/CLionProjects/Queue_exs/CQueue.cpp
+iostream
+/cygdrive/c/Users/bomtv/CLionProjects/Queue_exs/iostream
+string
+/cygdrive/c/Users/bomtv/CLionProjects/Queue_exs/string
+
+/cygdrive/c/Users/bomtv/CLionProjects/Queue_exs/main.cpp
+iostream
+-
+CQueue.cpp
+/cygdrive/c/Users/bomtv/CLionProjects/Queue_exs/CQueue.cpp
+

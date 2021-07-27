@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/Queue_exs.dir/main.cpp.o CMakeFiles/Queue_exs.dir/CQueue.cpp.o -o Queue_exs.exe -Wl,--out-implib,libQueue_exs.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
